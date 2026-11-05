@@ -52,15 +52,6 @@ const udit = {
 
 <br clear="right">
 
-## 🤝 Let's Collaborate
-
-| 👯 Collaborate on | 🙋 Looking for help with    | 💬 Ask me about     |
-| :---------------- | :-------------------------- | :------------------ |
-| Agentic AI        | Advanced RAG architectures  | Python              |
-| RAG systems       | Agent orchestration         | AI / ML             |
-| Knowledge Graphs  | Production-grade AI systems | RAG & Agentic AI    |
-| Open Source AI    |                             | Backend Development |
-
 ## 📊 GitHub Stats
 
 <p align="center">
