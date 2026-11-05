@@ -31,16 +31,9 @@ Learning <b>LangGraph & System Design</b> 🐈
 
 ```javascript
 const udit = {
-  pronouns: "he" | "him",
   code: ["Python", "TypeScript", "JavaScript", "C++"],
   ai: ["LangChain", "LangGraph", "Hugging Face", "Ollama", "Cognee", "MCP"],
   backend: ["FastAPI", "Node.js", "PostgreSQL", "Supabase", "Redis", "Neo4j"],
-  learning: [
-    "LangGraph",
-    "Multi-Agent Systems",
-    "Knowledge Graphs",
-    "System Design",
-  ],
   lookingFor:
     "Advanced RAG architectures, agent orchestration, production-grade AI",
   funFact:
